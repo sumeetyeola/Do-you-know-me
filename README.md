@@ -1,3 +1,3 @@
-# Do-you-know-me
-A short quiz game which tests your knowledge about me.
+# Do you know NASHIK well?
+A short quiz game which tests your knowledge about Nashik city.
 IDE:repl.it
